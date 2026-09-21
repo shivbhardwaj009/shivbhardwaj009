@@ -1,16 +1,16 @@
 <div align="center">
 
-<a href="https://github.com/Chaitanyasethi1">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=850&height=70&lines=CHAITANYA+SETHI;AI%2FML+ENGINEER+%C2%B7+SYSTEMS+BUILDER;LLM+%C2%B7+RAG+%C2%B7+AGENTS+%C2%B7+FULL-STACK" alt="Chaitanya Sethi"/>
+<a href="https://github.com/shivbhardwaj009">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=850&height=70&lines=SHIV+BHARDWAJ;AI%2FML+ENGINEER+%C2%B7+SYSTEMS+BUILDER;LLM+%C2%B7+RAG+%C2%B7+AGENTS+%C2%B7+FULL-STACK" alt="Shiv Bhardwaj"/>
 </a>
 
 <br>
 
 <p>
-<a href="https://www.linkedin.com/in/chaitanyasethi009">
+<a href="https://www.linkedin.com/in/shivbhardwaj009">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:chaitanyasethi3336@gmail.com">
+<a href="mailto:shivbhardwaj009@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.airavatxdr.in/">
@@ -20,7 +20,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Chaitanyasethi1&style=flat-square&color=6366f1" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=shivbhardwaj009&style=flat-square&color=6366f1" alt="Profile views"/>
 
 </div>
 
@@ -30,7 +30,7 @@
 
 ## About Me
 
-I'm **Chaitanya Sethi**, a 3rd-year **B.Tech AI & Data Science** student at VIPS Delhi and a **Software Engineer Intern @ 7rd.ai**.
+I'm **Shiv Bhardwaj**, a 3rd-year **B.Tech AI & Data Science** student at VIPS Delhi and a **Software Engineer Intern @ 7rd.ai**.
 
 I build systems at the intersection of **AI/ML, LLMs, backend engineering, and real-world products**.
 
@@ -122,7 +122,7 @@ Real-time cyber-defense platform combining:
 
 `Python` `FastAPI` `React` `Scikit-learn` `NLP`
 
-[Repository →](https://github.com/Chaitanyasethi1/XDR_hack)
+[Repository →](https://github.com/shivbhardwaj009/XDR_hack)
 [Live System →](https://www.airavatxdr.in/)
 
 </td>
@@ -173,7 +173,7 @@ Top 10 — Samsung Solve for Tomorrow 2025
 
 `ESP32` `C++` `Python` `IoT`
 
-[Repository →](https://github.com/Chaitanyasethi1/Note)
+[Repository →](https://github.com/shivbhardwaj009/Note)
 
 </td>
 
@@ -411,11 +411,11 @@ I want my GitHub to reflect **what I can build**, not simply what technologies I
 
 <br>
 
-<a href="https://www.linkedin.com/in/chaitanyasethi009">
+<a href="https://www.linkedin.com/in/shivbhardwaj009">
 <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:chaitanyasethi3336@gmail.com">
+<a href="mailto:shivbhardwaj009@gmail.com">
 <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
