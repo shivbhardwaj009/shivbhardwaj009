@@ -13,9 +13,6 @@
 <a href="mailto:shivbhardwaj009@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.airavatxdr.in/">
-<img src="https://img.shields.io/badge/AIRAVAT_XDR-Live-111827?style=flat-square"/>
-</a>
 </p>
 
 <br>
@@ -69,145 +66,27 @@ Currently working on:
 
 * Engineering intelligent software systems, cloud integrations, and smart automation workflows.
 
-### 💼 Software Engineer Intern — 7rd.ai
-*Autonomous Drone-Defense Platform*
-
-* Windows-native ground control software (Electron + React + TypeScript)
-* Vision AI and autonomous navigation in electronic-warfare-resilient environments
-* Deployed autonomous operational agent on VPS infrastructure that reduced manual operational work by approximately **40%**.
-
 ---
 
-# 🏆 Recognition
-
-<div align="center">
-
-| Achievement                                |         Result         |
-| :----------------------------------------- | :--------------------: |
-| 🛸 **National Innovation Challenge 2024**  | Semi-Finalist (Top 150 Teams) |
-| 🇮🇳 **India Innovates 2026**              |    National Finalist   |
-| 🚀 **Samsung Solve for Tomorrow 2025**     | Top 10 / 20,000+ teams |
-| 🥇 **Supernova Hackathon — GL Bajaj 2025** |        1st Place       |
-
-</div>
-
----
-
-# 🧩 Featured Projects
+# 🧩 Featured Project
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-## 🛸 Autonomous Drone
+## 🛸 Autonomous Drone Defence System
 
-### GPS-Denied Navigation & SLAM (2024)
+### GPS-Denied Navigation, SLAM & Electronic-Warfare Resilience
 
-**Semi-Finalist — National Innovation Challenge 2024**
-
-* **GPS-Denied Navigation:** Designed and built an autonomous drone capable of GPS-denied self-navigation using SLAM-based mapping and localization with onboard sensors.
-* **National Standing:** Ranked among the top 150 teams nationally at the National Innovation Challenge, reaching Semi-Finalist stage.
-* **Obstacle Avoidance & Path-Planning:** Implemented obstacle avoidance and algorithm optimization for path-planning, ensuring reliable performance in GPS-denied environments.
+* **GPS-Denied Navigation:** Designed and built an autonomous drone system capable of GPS-denied self-navigation using SLAM-based mapping and localization with onboard sensors.
+* **Obstacle Avoidance & Path-Planning:** Implemented real-time obstacle avoidance and algorithm optimization for path-planning, ensuring reliable performance in constrained environments.
+* **Electronic-Warfare Resilience:** Engineered navigation and control routines built for signal-denied and electronic-warfare-resilient operations.
+* **Ground Control & Telemetry:** Developed ground control station interface and telemetry workflows for real-time monitoring, flight data, and mission control.
 
 **Stack**
 
 `Python` `C++` `SLAM` `ESP32` `Arduino` `Sensor Integration` `Autonomous Navigation`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🔐 AIRAVAT XDR
-
-### Autonomous AI Cyber Defense Platform
-
-**National Finalist — India Innovates 2026**
-
-Real-time cyber-defense platform combining:
-
-* Isolation Forest anomaly detection
-* NLP phishing classification
-* Risk-score fusion
-* FastAPI backend & React dashboard
-
-**Impact**
-
-`<2s` response latency · `<5%` reported false-positive rate
-
-**Stack**
-
-`Python` `FastAPI` `React` `Scikit-learn` `NLP`
-
-[Repository →](https://github.com/shivbhardwaj009/XDR_hack) · [Live System →](https://www.airavatxdr.in/)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 📒 NoteNetra
-
-### Offline IoT Cash Tracking
-
-**Top 10 — Samsung Solve for Tomorrow 2025**
-
-ESP32-powered system designed to digitize informal cash transactions and convert shopkeeper ledger activity into structured credit data. Validated with real shopkeepers.
-
-**Impact**
-
-`1,000+` daily cash transactions targeted
-
-**Stack**
-
-`ESP32` `C++` `Python` `IoT` `Hardware`
-
-[Repository →](https://github.com/shivbhardwaj009/Note)
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🤖 SAMARTH-AI
-
-### Government Taxonomy Classification
-
-Full-stack NLP system mapping natural-language product descriptions to **500+ government taxonomy categories**.
-
-**Impact**
-
-`80%` classification accuracy · `70%` reduction in manual effort · `10+ min → <1 sec` processing time
-
-**Stack**
-
-`Python` `FastAPI` `React` `NLP` `ML`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2" valign="top">
-
-## 🎙️ Voice-Based AI Caller
-
-### Autonomous Business Calling Agent
-
-An intelligent voice-based AI agent built specifically for business communications. Autonomously handles calls, engages with clients naturally, and processes business workflows dynamically during conversations.
-
-**Features**
-
-* Natural conversational flow & low-latency voice processing
-* Dynamic context switching & business logic integration
-* Speech-to-Text, LLM reasoning, and Text-to-Speech synthesis pipeline
-
-**Stack**
-
-`Python` `LLMs` `FastAPI` `Speech-to-Text` `Text-to-Speech`
 
 </td>
 
@@ -318,8 +197,7 @@ An intelligent voice-based AI agent built specifically for business communicatio
 ```text
 2024
  │
- ├── Autonomous Drone (GPS-denied Navigation, SLAM)
- ├── National Innovation Challenge — Semi-Finalist (Top 150 Teams)
+ ├── Autonomous Drone Defence System (GPS-denied Navigation, SLAM)
  ├── Engineering fundamentals (Python, C++)
  └── Sensor integration & embedded systems
         │
@@ -327,17 +205,13 @@ An intelligent voice-based AI agent built specifically for business communicatio
 2025
  │
  ├── AI/ML projects & model development
- ├── Hackathons & smart automation
- ├── Samsung Solve for Tomorrow (Top 10)
- ├── Supernova Hackathon — 1st Place
- └── Real-world IoT product experimentation (NoteNetra)
+ ├── Edge AI & smart automation
+ └── Real-world IoT & embedded systems
         │
         ▼
 2026
  │
  ├── Software Engineer Intern @ Kenet Technologies (Sep 2026 – Present)
- ├── Software Engineer Intern @ 7rd.ai
- ├── India Innovates — National Finalist (AIRAVAT XDR)
  ├── Production AI & full-stack systems
  └── Autonomous AI agents & cloud integration
         │
