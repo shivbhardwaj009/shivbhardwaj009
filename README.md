@@ -29,7 +29,7 @@
 
 I'm **Shiv Bhardwaj**, a 3rd-year **B.Tech AI & Data Science** student at VIPS Delhi and a **Software Engineer Intern @ Kenet Technologies** (Sep 2026 – Present).
 
-I build systems at the intersection of **AI/ML, IoT, autonomous robotics, and real-world products**.
+I build systems at the intersection of **AI/ML, and real-world products**.
 
 Currently working on:
 
